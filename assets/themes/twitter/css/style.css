@@ -1,7 +1,13 @@
 /* Custom container */
 .container-narrow {
   margin: 0 auto;
-  max-width: 480px; }
+  padding: 1em;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #d4d4d4;
+  max-width: 480px;
+  background-color: #ffffff;
+}
 
 .container-narrow > hr {
   margin: 30px 0; }
