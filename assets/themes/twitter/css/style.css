@@ -2,11 +2,18 @@
 .container-narrow {
   margin: 0 auto;
   padding: 1em;
-  border-style: solid;
-  border-width: 1px;
-  border-color: #d4d4d4;
   max-width: 480px;
-  background-color: #ffffff;
+  padding: 1em;
+}
+
+.content {
+    margin: 0 auto;
+    padding: 1em;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #d4d4d4;
+    max-width: 480px;
+    background-color: #ffffff;	
 }
 
 .container-narrow > hr {
